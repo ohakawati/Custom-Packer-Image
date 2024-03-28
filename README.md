@@ -37,6 +37,12 @@ In looker you can include a number of different charts, graphs, and numerics in 
 # 7. Save your Dashboard and create different views
 You now have a starter dashboard. You can go back to the python scripts and manipulate the request to scrape other data that you desire. You can extent the amount of season data collected(2018-2023 in our case), you can include playoff data, specific game data, and team data. There is endless possiblities you can do with this data, you can create much more detailed and visual charts or even train your own BigQuery ML model on this data.
 
+# 8. In the next task I will be training BQ ML linear regression model to predict improvement scores
+See visual for more detail
+<img width="842" alt="Screenshot 2024-03-27 at 12 52 00 AM" src="https://github.com/ohakawati/NBA-Analytics/assets/89810188/50bb6e8f-2152-4877-8448-6a9551ca0ca7">
+
+
+
 
 
 
