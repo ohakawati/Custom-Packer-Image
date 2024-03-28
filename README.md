@@ -1,1 +1,1 @@
-#NBA DataAnalytics using BigQuery and Looker
+NBA DataAnalytics using BigQuery and Looker
